@@ -12,9 +12,7 @@
 ---
 
 ## 🔗 Production Server Live Access
-* **Interactive Dashboard:** [http://13.201.152.175](http://13.201.152.175)
-* **API Swagger Documentation:** [http://13.201.152.175/api/docs](http://13.201.152.175/api/docs)
-
+* **Interactive Dashboard:** [http://EC2 Public IP
 ---
 
 ## 💡 Why This Exists
@@ -174,8 +172,8 @@ SLACK_SIGNING_SECRET=your-slack-signing-secret
 SLACK_CHANNEL=C0BBA28AYD9
 
 # Environment URLs
-VITE_API_URL=http://13.201.152.175/api
-BACKEND_PUBLIC_URL=http://13.201.152.175
+VITE_API_URL=http://Public IP/api
+BACKEND_PUBLIC_URL=http://Public IP
 ```
 
 ---
