@@ -2,6 +2,15 @@
 # Smart DevOps Assistant — AI SRE Copilot
 
 > An agentic AIOps platform that autonomously investigates production incidents, performs hypothesis-driven root cause analysis, and generates actionable runbooks — reducing simulated MTTR by 60% on benchmark datasets.
+>
+> Problem:
+DevOps teams spend hours manually investigating production incidents.
+
+Solution:
+Smart DevOps Assistant automatically performs log analysis, root cause detection, AI-powered incident investigation, RAG-based historical retrieval, runbook generation, GitHub publishing, and Slack-based approval workflows.
+
+Result:
+Reduces incident investigation time from hours to minutes.
 
 ## Live Demo
 http://YOUR_EC2_IP:3000
