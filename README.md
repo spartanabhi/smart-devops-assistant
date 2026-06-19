@@ -12,7 +12,7 @@
 ---
 
 ## 🔗 Production Server Live Access
-* **Interactive Dashboard:** [http://EC2 Public IP
+* **Interactive Dashboard:** [http://EC2 Public IP]
 ---
 
 ## 💡 Why This Exists
