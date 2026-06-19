@@ -1,1 +1,11 @@
-link [https://drive.google.com/file/d/11ZjFwfwwYwLb9w79P3bUxpfVCTEnenLZ/view?usp=sharing]
+[Demo video of project](https://drive.google.com/file/d/11ZjFwfwwYwLb9w79P3bUxpfVCTEnenLZ/view?usp=sharing)
+
+This demo video walks through the Smart DevOps Assistant features: automated root cause analysis, RAG-based incident intelligence, AI runbook generation, Slack approval workflows, and AWS deployment.
+
+Key highlights:
+- Overview of the incident lifecycle and user interface
+- Example automated root cause analysis (RCA) for a sample outage
+- AI-generated runbook creation and Slack approval workflow demo
+- Deployment and monitoring setup on AWS
+
+If you want this file to include timestamps, a written transcript, or an embedded player, tell me how you'd like it formatted and I will update it.
