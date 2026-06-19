@@ -3,7 +3,9 @@
 
 > An agentic AIOps platform that autonomously investigates production incidents, performs hypothesis-driven root cause analysis, and generates actionable runbooks — reducing simulated MTTR by 60% on benchmark datasets.
 >
-> Problem:
+>
+
+Problem:
 DevOps teams spend hours manually investigating production incidents.
 
 Solution:
